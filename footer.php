@@ -31,7 +31,7 @@
     </div>
 
     <!-- ========== RIGHT SIDE: SOCIAL MEDIA ICONS ========== -->
-    <div id="termsr">
+       <div id="termsr">
       <h2>Follow Us</h2>
       <div class="social-icons">
         <a href="#" aria-label="Visit our Facebook page">
@@ -47,6 +47,12 @@
           <img src="images/linkdin.WEBP" alt="LinkedIn Logo" loading="lazy">
         </a>
       </div>
+
+      <!-- ========== DESIGNER CREDIT SECTION ========== -->
+      <br><br><br><br><br><p class="developer-credit">
+        💻 Designed & Developed by 
+        <a href="mailto:aniketchoudhary0612@gmail.com">aniketchoudhary0612@gmail.com</a>
+      </p>
     </div>
   </div>
 
@@ -88,3 +94,4 @@
 </script>
 
 <!-- ========== FOOTER CLOSE ========== -->
+
